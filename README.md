@@ -2163,3 +2163,8 @@ To resolve this:
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
 # maptest
+https://gist.github.com/DroopyTersen/65c9fccd08830ab61e08
+https://mobiforge.com/design-development/html5-mobile-web-device-orientation-events
+https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation
+https://google-developers.appspot.com/maps/documentation/javascript/shapes
+https://tomchentw.github.io/react-google-maps/#polygon
